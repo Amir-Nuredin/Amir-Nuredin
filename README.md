@@ -15,7 +15,7 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|    Firewall & VPN Infrastructure Deployment     | <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Detection Lab</a>|
+|    Firewall & VPN Infrastructure Deployment     | <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>|
 
 ## Tools
 
@@ -25,11 +25,20 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
     <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 
+### Security/Infrastructure
+<img src="https://img.shields.io/badge/-pfSense-D35400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenVPN-EA7E20?&style=for-the-badge&logo=openvpn&logoColor=white" />
+
+
 
 ### Concepts
 <img src="https://img.shields.io/badge/-TCP-0A66C2?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-UDP-2ECC71?&style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-HTTP%2FHTTPS-2E7D32?&style=for-the-badge&logo=letsencrypt&logoColor=white" />
 
+### Linux 
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 
 ### Languages
