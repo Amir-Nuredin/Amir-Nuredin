@@ -11,7 +11,7 @@ I am currently a student studying cybersecurity at Metropolitan State University
 My love for tech has gotten me into the feild of cybersecurity. I haven't specialized what specifc area of cybersecurity I want to work in, just building my fundamental skills in networking and general security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
