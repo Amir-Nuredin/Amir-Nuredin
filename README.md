@@ -15,7 +15,7 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|           | <a href="https://google.com">Detection Lab</a>|
+|    Firewall & VPN Infrastructure Deployment     | <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Detection Lab</a>|
 
 ## Tools
 
@@ -44,8 +44,8 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>
+
 
 <!--
 **Amir-Nuredin/Amir-Nuredin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
