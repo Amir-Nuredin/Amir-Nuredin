@@ -16,7 +16,7 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |    Firewall & VPN Infrastructure Deployment     | <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>|
-|    Endpoint Monitoring & Log Analysis           |  <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>|
+|    Endpoint Monitoring & Log Analysis           |  <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection</a>|
 
 ## Tools
 
@@ -55,6 +55,8 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 
 ## Projects
 - <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>
+- <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection
+</a>
 
 
 <!--
