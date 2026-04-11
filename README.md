@@ -17,6 +17,7 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 |-----------------------------------------------|----------------------------|
 |    Firewall & VPN Infrastructure Deployment     | <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>|
 |    Endpoint Monitoring & Log Analysis           |  <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection</a>|
+|    SIEM Deployment and Event Correclation       |  <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>|
 
 ## Tools
 
@@ -27,6 +28,7 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 
 ### Security/Infrastructure
+<img src="https://img.shields.io/badge/-Splunk-65A637?&style=for-the-badge&logo=splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-pfSense-D35400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-OpenVPN-EA7E20?&style=for-the-badge&logo=openvpn&logoColor=white" />
 <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -55,8 +57,8 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 
 ## Projects
 - <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>
-- <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection
-</a>
+- <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection </a>
+- <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>
 
 
 <!--
