@@ -15,10 +15,15 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|    Firewall & VPN Infrastructure Deployment     | <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>|
-|    Endpoint Monitoring & Log Analysis           |  <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection</a>|
-|    SIEM Deployment and Event Correclation       |  <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>|
+| Active Directory Infrastructure Deployment     |  <a href="https://https://github.com/Amir-Nuredin/Active-Directory-Homelab-Deploying-a-Domain-Controller-Joining-Clients.">Active Directory Homelab: Deploying a Domain Controller and Joining Clients.</a>|
 | System Hardening and Security Configuration     |  <a href="https://github.com/Amir-Nuredin/Ubuntu-Server-Security-Hardening-SSH-UFW-Firewall-and-Service-Reduction.">Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.</a>|
+|    SIEM Deployment and Event Correclation       |  <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>|
+|    Endpoint Monitoring & Log Analysis           |  <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection</a>|
+|    Firewall & VPN Infrastructure Deployment     | <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>|
+
+
+
+
 
 ## Tools
 
@@ -33,6 +38,7 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 <img src="https://img.shields.io/badge/-pfSense-D35400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-OpenVPN-EA7E20?&style=for-the-badge&logo=openvpn&logoColor=white" />
 <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 
 ### Concepts
@@ -53,14 +59,18 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 
 
 ## Certifications
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-E11C2A?&style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Network%2B-E11C2A?&style=for-the-badge&logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA%20A%2B-EA0028?&style=for-the-badge&logo=comptia&logoColor=white" />
 
 
 ## Projects
-- <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>
-- <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection </a>
-- <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>
+- <a href="https://https://github.com/Amir-Nuredin/Active-Directory-Homelab-Deploying-a-Domain-Controller-Joining-Clients.">Active Directory Homelab: Deploying a Domain Controller and Joining Clients.</a>
 - <a href="https://github.com/Amir-Nuredin/Ubuntu-Server-Security-Hardening-SSH-UFW-Firewall-and-Service-Reduction.">Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.</a>
+- <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>
+- <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection </a>
+- <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>
+
 
 
 <!--
