@@ -15,6 +15,7 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Group Policy Administration & Access Control     |  <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project.">Active Directory Group Policy and Secure File Sharing Project.</a>|
 | Active Directory Infrastructure Deployment     |  <a href="https://https://github.com/Amir-Nuredin/Active-Directory-Homelab-Deploying-a-Domain-Controller-Joining-Clients.">Active Directory Homelab: Deploying a Domain Controller and Joining Clients.</a>|
 | System Hardening and Security Configuration     |  <a href="https://github.com/Amir-Nuredin/Ubuntu-Server-Security-Hardening-SSH-UFW-Firewall-and-Service-Reduction.">Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.</a>|
 |    SIEM Deployment and Event Correclation       |  <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>|
@@ -39,6 +40,7 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 <img src="https://img.shields.io/badge/-OpenVPN-EA7E20?&style=for-the-badge&logo=openvpn&logoColor=white" />
 <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 
 ### Concepts
@@ -65,6 +67,7 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 
 
 ## Projects
+- <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project.">Active Directory Group Policy and Secure File Sharing Project.</a>
 - <a href="https://https://github.com/Amir-Nuredin/Active-Directory-Homelab-Deploying-a-Domain-Controller-Joining-Clients.">Active Directory Homelab: Deploying a Domain Controller and Joining Clients.</a>
 - <a href="https://github.com/Amir-Nuredin/Ubuntu-Server-Security-Hardening-SSH-UFW-Firewall-and-Service-Reduction.">Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.</a>
 - <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>
