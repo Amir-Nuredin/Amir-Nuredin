@@ -15,8 +15,8 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Group Policy Administration & Access Control     |  <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project.">Active Directory Group Policy and Secure File Sharing Project.</a>|
-| Active Directory Infrastructure Deployment     |  <a href="https://https://github.com/Amir-Nuredin/Active-Directory-Homelab-Deploying-a-Domain-Controller-Joining-Clients.">Active Directory Homelab: Deploying a Domain Controller and Joining Clients.</a>|
+| Group Policy Administration & Access Control     |  <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project">Active Directory Group Policy and Secure File Sharing Project.</a>|
+| Active Directory Infrastructure Deployment     |  <a href="https://github.com/Amir-Nuredin/Active-Directory-Homelab-Deploying-a-Domain-Controller-Joining-Clients">Active Directory Homelab: Deploying a Domain Controller and Joining Clients.</a>|
 | System Hardening and Security Configuration     |  <a href="https://github.com/Amir-Nuredin/Ubuntu-Server-Security-Hardening-SSH-UFW-Firewall-and-Service-Reduction.">Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.</a>|
 |    SIEM Deployment and Event Correclation       |  <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>|
 |    Endpoint Monitoring & Log Analysis           |  <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection</a>|
