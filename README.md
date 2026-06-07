@@ -8,13 +8,14 @@ I am currently a student studying cybersecurity at Metropolitan State University
 ## Objective
 
 
-My love for tech has gotten me into the feild of cybersecurity. I haven't specialized what specifc area of cybersecurity I want to work in, just building my fundamental skills in networking and general security.
+My love for tech has gotten me into the field of cybersecurity. I haven't specialized in what specific area of cybersecurity I want to work in, just building my fundamental skills in networking and general security.
 
 ## Skills
 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|   Cloud Security Administration   |  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Lab-Secure-Account-Setup-IAM-MFA-and-Core-Services-Exploration">AWS Cloud Security Lab: Secure Account Setup, IAM MFA, and Core Services Exploration.</a>|
 | Group Policy Administration & Access Control     |  <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project">Active Directory Group Policy and Secure File Sharing Project.</a>|
 | Active Directory Infrastructure Deployment     |  <a href="https://github.com/Amir-Nuredin/Active-Directory-Homelab-Deploying-a-Domain-Controller-Joining-Clients">Active Directory Homelab: Deploying a Domain Controller and Joining Clients.</a>|
 | System Hardening and Security Configuration     |  <a href="https://github.com/Amir-Nuredin/Ubuntu-Server-Security-Hardening-SSH-UFW-Firewall-and-Service-Reduction.">Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.</a>|
@@ -42,6 +43,8 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
 
+### Cloud
+<img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 ### Concepts
 <img src="https://img.shields.io/badge/-TCP-0A66C2?&style=for-the-badge&logo=cisco&logoColor=white" />
@@ -67,6 +70,7 @@ My love for tech has gotten me into the feild of cybersecurity. I haven't specia
 
 
 ## Projects
+- <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Lab-Secure-Account-Setup-IAM-MFA-and-Core-Services-Exploration">AWS Cloud Security Lab: Secure Account Setup, IAM MFA, and Core Services Exploration.</a>
 - <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project.">Active Directory Group Policy and Secure File Sharing Project.</a>
 - <a href="https://https://github.com/Amir-Nuredin/Active-Directory-Homelab-Deploying-a-Domain-Controller-Joining-Clients.">Active Directory Homelab: Deploying a Domain Controller and Joining Clients.</a>
 - <a href="https://github.com/Amir-Nuredin/Ubuntu-Server-Security-Hardening-SSH-UFW-Firewall-and-Service-Reduction.">Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.</a>
