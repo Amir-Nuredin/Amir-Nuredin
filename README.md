@@ -16,6 +16,7 @@ My love for tech has gotten me into the field of cybersecurity. I haven't specia
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |   Cloud Security Monitoring & Event Investigation  |  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Monitoring-Investigation-Lab-CloudTrail-CloudWatch-">AWS Cloud Security Monitoring Investigation Lab (CloudTrail+CloudWatch).</a>|
+|   Network Security Monitoring  |  <a href="https://github.com/Amir-Nuredin/Intrusion-Detection-and-Prevention-Project-Using-pfSense-and-Suricata">Intrusion Detection and Prevention Project Using pfSense and Suricata.</a>|
 |   AWS Cloud Networking & Infrastructure Deployment  |  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Infrastructure-Project-VPC-EC2-and-Security-Controls">AWS Cloud Infrastructure Project VPC EC2 and Security Controls.</a>|
 |   Cloud Security Administration   |  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Lab-Secure-Account-Setup-IAM-MFA-and-Core-Services-Exploration">AWS Cloud Security Lab: Secure Account Setup, IAM MFA, and Core Services Exploration.</a>|
 | Group Policy Administration & Access Control     |  <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project">Active Directory Group Policy and Secure File Sharing Project.</a>|
@@ -73,6 +74,7 @@ My love for tech has gotten me into the field of cybersecurity. I haven't specia
 
 ## Projects
 - <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Monitoring-Investigation-Lab-CloudTrail-CloudWatch-">AWS Cloud Security Monitoring Investigation Lab (CloudTrail+CloudWatch).</a>
+-  <a href="https://github.com/Amir-Nuredin/Intrusion-Detection-and-Prevention-Project-Using-pfSense-and-Suricata">Intrusion Detection and Prevention Project Using pfSense and Suricata.</a>
 - <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Infrastructure-Project-VPC-EC2-and-Security-Controls">AWS Cloud Infrastructure Project: VPC EC2 and Security Controls.</a>
 - <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Lab-Secure-Account-Setup-IAM-MFA-and-Core-Services-Exploration">AWS Cloud Security Lab: Secure Account Setup, IAM MFA, and Core Services Exploration.</a>
 - <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project.">Active Directory Group Policy and Secure File Sharing Project.</a>
