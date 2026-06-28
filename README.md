@@ -15,6 +15,7 @@ My love for tech has gotten me into the field of cybersecurity. I haven't specia
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|   AWS Identity and Access Management (IAM)  |  <a href="https://github.com/Amir-Nuredin/AWS-IAM-Security-Assessment-Identity-Governance-MFA-Enforcement-and-Least-Privilege-Analysis">AWS IAM Security Assessment: RBAC, MFA, Least Privilege, and Access Governance Review</a>|
 |   Cloud Security Monitoring & Event Investigation  |  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Monitoring-Investigation-Lab-CloudTrail-CloudWatch-">AWS Cloud Security Monitoring Investigation Lab (CloudTrail+CloudWatch).</a>|
 |   Network Security Monitoring  |  <a href="https://github.com/Amir-Nuredin/Intrusion-Detection-and-Prevention-Project-Using-pfSense-and-Suricata">Intrusion Detection and Prevention Project Using pfSense and Suricata.</a>|
 |   AWS Cloud Networking & Infrastructure Deployment  |  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Infrastructure-Project-VPC-EC2-and-Security-Controls">AWS Cloud Infrastructure Project VPC EC2 and Security Controls.</a>|
@@ -74,6 +75,7 @@ My love for tech has gotten me into the field of cybersecurity. I haven't specia
 
 
 ## Projects
+-  <a href="https://github.com/Amir-Nuredin/AWS-IAM-Security-Assessment-Identity-Governance-MFA-Enforcement-and-Least-Privilege-Analysis">AWS IAM Security Assessment: RBAC, MFA, Least Privilege, and Access Governance Review</a>
 - <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Monitoring-Investigation-Lab-CloudTrail-CloudWatch-">AWS Cloud Security Monitoring Investigation Lab (CloudTrail+CloudWatch).</a>
 -  <a href="https://github.com/Amir-Nuredin/Intrusion-Detection-and-Prevention-Project-Using-pfSense-and-Suricata">Intrusion Detection and Prevention Project Using pfSense and Suricata.</a>
 - <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Infrastructure-Project-VPC-EC2-and-Security-Controls">AWS Cloud Infrastructure Project: VPC EC2 and Security Controls.</a>
