@@ -15,6 +15,7 @@ My love for tech has gotten me into the field of cybersecurity. I haven't specia
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|  Endpoint Detection and Response (EDR)  |  <a href="https://github.com/Amir-Nuredin/Wazuh-SIEM-Deployment-Endpoint-Monitoring-Threat-Detection-lab">Wazuh SIEM Deployment: Endpoint Monitoring Threat Detection lab</a>|
 |   AWS Identity and Access Management (IAM)  |  <a href="https://github.com/Amir-Nuredin/AWS-IAM-Security-Assessment-Identity-Governance-MFA-Enforcement-and-Least-Privilege-Analysis">AWS IAM Security Assessment: RBAC, MFA, Least Privilege, and Access Governance Review</a>|
 |   Cloud Security Monitoring & Event Investigation  |  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Monitoring-Investigation-Lab-CloudTrail-CloudWatch-">AWS Cloud Security Monitoring Investigation Lab (CloudTrail+CloudWatch).</a>|
 |   Network Security Monitoring  |  <a href="https://github.com/Amir-Nuredin/Intrusion-Detection-and-Prevention-Project-Using-pfSense-and-Suricata">Intrusion Detection and Prevention Project Using pfSense and Suricata.</a>|
@@ -47,6 +48,7 @@ My love for tech has gotten me into the field of cybersecurity. I haven't specia
 <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-005E9C?&style=for-the-badge&logo=wazuh&logoColor=white" />
 
 ### Cloud
 <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -75,6 +77,7 @@ My love for tech has gotten me into the field of cybersecurity. I haven't specia
 
 
 ## Projects
+-  <a href="https://github.com/Amir-Nuredin/Wazuh-SIEM-Deployment-Endpoint-Monitoring-Threat-Detection-lab">Wazuh SIEM Deployment: Endpoint Monitoring Threat Detection lab</a>
 -  <a href="https://github.com/Amir-Nuredin/AWS-IAM-Security-Assessment-Identity-Governance-MFA-Enforcement-and-Least-Privilege-Analysis">AWS IAM Security Assessment: RBAC, MFA, Least Privilege, and Access Governance Review</a>
 - <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Monitoring-Investigation-Lab-CloudTrail-CloudWatch-">AWS Cloud Security Monitoring Investigation Lab (CloudTrail+CloudWatch).</a>
 -  <a href="https://github.com/Amir-Nuredin/Intrusion-Detection-and-Prevention-Project-Using-pfSense-and-Suricata">Intrusion Detection and Prevention Project Using pfSense and Suricata.</a>
