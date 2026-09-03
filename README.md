@@ -29,6 +29,107 @@ Through hands-on projects and security labs, I am developing experience with sec
 | Security Analysis | Nmap, Wireshark, CVE Research, Security Event Investigation |
 
 
+## ⭐ Featured Projects
+
+### 🛡️ Enterprise Vulnerability Assessment & Risk Management
+**Tenable Nessus Essentials | Nmap | Windows | Linux**
+
+Performed vulnerability assessments across Windows 10, Windows Server 2022, and Ubuntu Server environments. Analyzed CVSS severity, researched CVEs, prioritized remediation, implemented security fixes, and validated remediation through rescanning.
+
+View Project → <a href="https://github.com/Amir-Nuredin/Enterprise-Vulnerability-Assessment-Risk-Management-with-Tenable-Nessus-Essentials">Enterprise Vulnerability Assessment Risk Management with Tenable Nessus Essentials</a>
+
+---
+
+### 🚨 Wazuh SIEM Deployment & Endpoint Threat Detection
+**Wazuh | Windows | Linux | Sysmon**
+
+Deployed and configured Wazuh for centralized security monitoring and endpoint detection. Collected and analyzed Windows and Linux security events, investigated alerts, and practiced threat detection and response workflows.
+
+View Project →  <a href="https://github.com/Amir-Nuredin/Wazuh-SIEM-Deployment-Endpoint-Monitoring-Threat-Detection-lab">Wazuh SIEM Deployment: Endpoint Monitoring Threat Detection lab</a>
+
+---
+
+### 🔎 Splunk SIEM & Sysmon Log Analysis
+**Splunk | Sysmon | Windows Event Logs**
+
+Configured Sysmon logging and analyzed Windows security events using Splunk to identify suspicious activity and investigate security events.
+
+View Project → <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>
+
+---
+
+### ☁️ AWS Cloud Security Monitoring
+**AWS CloudTrail | AWS CloudWatch**
+
+Configured AWS security monitoring and analyzed CloudTrail and CloudWatch events to investigate cloud activity and strengthen visibility across AWS resources.
+
+View Project → 
+
+---
+
+### 🌐 Network Intrusion Detection & Prevention
+**pfSense | Suricata | OpenVPN**
+
+Designed and configured a virtualized network security environment using pfSense and Suricata. Implemented firewall rules, VPN connectivity, network monitoring, and intrusion detection/prevention controls.
+
+View Project →  <a href="https://github.com/Amir-Nuredin/Intrusion-Detection-and-Prevention-Project-Using-pfSense-and-Suricata">Intrusion Detection and Prevention Project Using pfSense and Suricata.</a>
+
+---
+
+### 🏢 Active Directory Security & Group Policy
+**Windows Server 2022 | Active Directory | Group Policy**
+
+Deployed a Windows Server 2022 Domain Controller, joined client systems to the domain, configured Group Policy, and implemented secure file-sharing and access-control configurations.
+
+View Project → <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project">Active Directory Group Policy and Secure File Sharing Project.</a>
+
+
+## 📚 All Projects
+
+### 🛡️ Vulnerability Management
+
+-  <a href="https://github.com/Amir-Nuredin/Enterprise-Vulnerability-Assessment-Risk-Management-with-Tenable-Nessus-Essentials">Enterprise Vulnerability Assessment Risk Management with Tenable Nessus Essentials</a>
+
+### 🚨 SOC, SIEM & Detection
+
+-  <a href="https://github.com/Amir-Nuredin/Wazuh-SIEM-Deployment-Endpoint-Monitoring-Threat-Detection-lab">Wazuh SIEM Deployment: Endpoint Monitoring Threat Detection lab</a>
+-  <a href="https://github.com/Amir-Nuredin/Advanced-Endpoint-Detection-Response-EDR-with-Wazuh">Advanced Endpoint Detection Response EDR with Wazuh</a>
+-  <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>
+-  <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection</a>
+
+### 🌐 Network Security
+
+-  <a href="https://github.com/Amir-Nuredin/Intrusion-Detection-and-Prevention-Project-Using-pfSense-and-Suricata">Intrusion Detection and Prevention Project Using pfSense and Suricata.</a>
+- <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>
+
+### ☁️ AWS & Cloud Security
+
+- <a href="https://github.com/Amir-Nuredin/AWS-IAM-Security-Assessment-Identity-Governance-MFA-Enforcement-and-Least-Privilege-Analysis">AWS IAM Security Assessment: RBAC, MFA, Least Privilege, and Access Governance Review</a>
+-  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Monitoring-Investigation-Lab-CloudTrail-CloudWatch-">AWS Cloud Security Monitoring Investigation Lab (CloudTrail+CloudWatch).</a>
+- <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Infrastructure-Project-VPC-EC2-and-Security-Controls">AWS Cloud Infrastructure Project VPC EC2 and Security Controls.</a>
+-  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Lab-Secure-Account-Setup-IAM-MFA-and-Core-Services-Exploration">AWS Cloud Security Lab: Secure Account Setup, IAM MFA, and Core Services Exploration.</a>
+
+### 🏢 Active Directory & Windows Security
+
+- <a href="https://github.com/Amir-Nuredin/Active-Directory-Homelab-Deploying-a-Domain-Controller-Joining-Clients">Active Directory Homelab: Deploying a Domain Controller and Joining Clients.</a>
+- <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project">Active Directory Group Policy and Secure File Sharing Project.</a>
+- <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection</a>
+
+### 🐧 Linux Security
+
+- <a href="https://github.com/Amir-Nuredin/Ubuntu-Server-Security-Hardening-SSH-UFW-Firewall-and-Service-Reduction.">Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.</a>
+
+## 🧰 Technical Toolkit
+
+### 🔐 Security & Monitoring
+
+
+
+
+
+
+
+
 
 <!--
 **Amir-Nuredin/Amir-Nuredin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
