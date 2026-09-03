@@ -3,97 +3,30 @@
 
 
 
-I am currently a student studying cybersecurity at Metropolitan State University, Dedicated to learning and improving my security skills. 
+I am a cybersecurity student at Metropolitan State University focused on developing practical skills in security operations, vulnerability management, network security, cloud security, and system administration.
+
+I use hands-on labs and projects to build experience with security monitoring, vulnerability assessment, threat detection, identity and access management, AWS security, Windows environments, Linux administration, and network defense. 
 
 ## Objective
 
 
-My love for tech has gotten me into the field of cybersecurity. I haven't specialized in what specific area of cybersecurity I want to work in, just building my fundamental skills in networking and general security.
+My goal is to build a career in cybersecurity by developing strong practical skills across Security Operations (SOC), vulnerability management, network security, cloud security, and system administration.
 
-## Skills
-
-
-| Skill                                         | Associated Project(s)        |
-|-----------------------------------------------|----------------------------|
-|  Enterprise Vulnerability Management  |  <a href="https://github.com/Amir-Nuredin/Enterprise-Vulnerability-Assessment-Risk-Management-with-Tenable-Nessus-Essentials">Enterprise Vulnerability Assessment Risk Management with Tenable Nessus Essentials</a>|
-|  Endpoint Detection and Response (EDR)  |  <a href="https://github.com/Amir-Nuredin/Wazuh-SIEM-Deployment-Endpoint-Monitoring-Threat-Detection-lab">Wazuh SIEM Deployment: Endpoint Monitoring Threat Detection lab</a> :: <a href="https://github.com/Amir-Nuredin/Advanced-Endpoint-Detection-Response-EDR-with-Wazuh">Advanced Endpoint Detection Response EDR with Wazuh</a>|
-|   AWS Identity and Access Management (IAM)  |  <a href="https://github.com/Amir-Nuredin/AWS-IAM-Security-Assessment-Identity-Governance-MFA-Enforcement-and-Least-Privilege-Analysis">AWS IAM Security Assessment: RBAC, MFA, Least Privilege, and Access Governance Review</a>|
-|   Cloud Security Monitoring & Event Investigation  |  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Monitoring-Investigation-Lab-CloudTrail-CloudWatch-">AWS Cloud Security Monitoring Investigation Lab (CloudTrail+CloudWatch).</a>|
-|   Network Security Monitoring  |  <a href="https://github.com/Amir-Nuredin/Intrusion-Detection-and-Prevention-Project-Using-pfSense-and-Suricata">Intrusion Detection and Prevention Project Using pfSense and Suricata.</a>|
-|   AWS Cloud Networking & Infrastructure Deployment  |  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Infrastructure-Project-VPC-EC2-and-Security-Controls">AWS Cloud Infrastructure Project VPC EC2 and Security Controls.</a>|
-|   Cloud Security Administration   |  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Lab-Secure-Account-Setup-IAM-MFA-and-Core-Services-Exploration">AWS Cloud Security Lab: Secure Account Setup, IAM MFA, and Core Services Exploration.</a>|
-| Group Policy Administration & Access Control     |  <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project">Active Directory Group Policy and Secure File Sharing Project.</a>|
-| Active Directory Infrastructure Deployment     |  <a href="https://github.com/Amir-Nuredin/Active-Directory-Homelab-Deploying-a-Domain-Controller-Joining-Clients">Active Directory Homelab: Deploying a Domain Controller and Joining Clients.</a>|
-| System Hardening and Security Configuration     |  <a href="https://github.com/Amir-Nuredin/Ubuntu-Server-Security-Hardening-SSH-UFW-Firewall-and-Service-Reduction.">Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.</a>|
-|    SIEM Deployment and Event Correclation       |  <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>|
-|    Endpoint Monitoring & Log Analysis           |  <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection</a>|
-|    Firewall & VPN Infrastructure Deployment     | <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>|
+Through hands-on projects and security labs, I am developing experience with security monitoring, vulnerability assessment, threat detection, access control, network defense, cloud infrastructure, Windows and Linux security, and incident investigation.
 
 
+## 🛡️ Core Skills
 
-
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
-
-### Security/Infrastructure
-<img src="https://img.shields.io/badge/-Splunk-65A637?&style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-pfSense-D35400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-OpenVPN-EA7E20?&style=for-the-badge&logo=openvpn&logoColor=white" />
-<img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=suricata&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wazuh-005E9C?&style=for-the-badge&logo=wazuh&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tenable%20Nessus-00A4EF?&style=for-the-badge&logo=tenable&logoColor=white" />
-
-
-### Cloud
-<img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-### Concepts
-<img src="https://img.shields.io/badge/-TCP-0A66C2?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-UDP-2ECC71?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-HTTP%2FHTTPS-2E7D32?&style=for-the-badge&logo=letsencrypt&logoColor=white" />
-
-### Linux 
-<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-
-
-### Languages
-<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-
-
-
-
-
-## Certifications
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-E11C2A?&style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA%20Network%2B-E11C2A?&style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA%20A%2B-EA0028?&style=for-the-badge&logo=comptia&logoColor=white" />
-
-
-## Projects
-- <a href="https://github.com/Amir-Nuredin/Enterprise-Vulnerability-Assessment-Risk-Management-with-Tenable-Nessus-Essentials">Enterprise Vulnerability Assessment Risk Management with Tenable Nessus Essentials</a>
-- <a href="https://github.com/Amir-Nuredin/Advanced-Endpoint-Detection-Response-EDR-with-Wazuh">Advanced Endpoint Detection Response EDR with Wazuh</a>
--  <a href="https://github.com/Amir-Nuredin/Wazuh-SIEM-Deployment-Endpoint-Monitoring-Threat-Detection-lab">Wazuh SIEM Deployment: Endpoint Monitoring Threat Detection lab</a>
--  <a href="https://github.com/Amir-Nuredin/AWS-IAM-Security-Assessment-Identity-Governance-MFA-Enforcement-and-Least-Privilege-Analysis">AWS IAM Security Assessment: RBAC, MFA, Least Privilege, and Access Governance Review</a>
-- <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Monitoring-Investigation-Lab-CloudTrail-CloudWatch-">AWS Cloud Security Monitoring Investigation Lab (CloudTrail+CloudWatch).</a>
--  <a href="https://github.com/Amir-Nuredin/Intrusion-Detection-and-Prevention-Project-Using-pfSense-and-Suricata">Intrusion Detection and Prevention Project Using pfSense and Suricata.</a>
-- <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Infrastructure-Project-VPC-EC2-and-Security-Controls">AWS Cloud Infrastructure Project: VPC EC2 and Security Controls.</a>
-- <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Lab-Secure-Account-Setup-IAM-MFA-and-Core-Services-Exploration">AWS Cloud Security Lab: Secure Account Setup, IAM MFA, and Core Services Exploration.</a>
-- <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project.">Active Directory Group Policy and Secure File Sharing Project.</a>
-- <a href="https://https://github.com/Amir-Nuredin/Active-Directory-Homelab-Deploying-a-Domain-Controller-Joining-Clients.">Active Directory Homelab: Deploying a Domain Controller and Joining Clients.</a>
-- <a href="https://github.com/Amir-Nuredin/Ubuntu-Server-Security-Hardening-SSH-UFW-Firewall-and-Service-Reduction.">Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.</a>
-- <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment-Sysmon-Log-Analysis-Lab">Splunk SIEM Deployment Sysmon Log Analysis Lab</a>
-- <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection </a>
-- <a href="https://github.com/Amir-Nuredin/Virtualized-Network-Security-Lab-pfSense-Firewall-OpenVPN/tree/main">Virtualized Network Security Lab: PfSense Firewall + OpenVPN</a>
+| Area | Skills |
+|---|---|
+| Vulnerability Management | Vulnerability Assessment, CVSS Analysis, CVE Research, Risk Prioritization, Remediation |
+| Security Operations | SIEM, Log Analysis, Threat Detection, Event Correlation, Security Monitoring |
+| Network Security | Network Monitoring, IDS/IPS, Firewall Configuration, VPNs, Network Segmentation |
+| Cloud Security | AWS IAM, CloudTrail, CloudWatch, VPC, Security Groups, Access Controls |
+| Identity & Access Management | Active Directory, Group Policy, RBAC, MFA, Least Privilege |
+| Windows Security | Windows Server, Sysmon, Event Logs, Group Policy, File Sharing Security |
+| Linux Security | Ubuntu Server, SSH Hardening, UFW Firewall, Service Hardening |
+| Security Analysis | Nmap, Wireshark, CVE Research, Security Event Investigation |
 
 
 
