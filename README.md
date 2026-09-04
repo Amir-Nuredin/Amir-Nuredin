@@ -123,6 +123,57 @@ View Project → <a href="https://github.com/Amir-Nuredin/Active-Directory-Group
 
 ### 🔐 Security & Monitoring
 
+<img src="https://img.shields.io/badge/-Wazuh-005E9C?&style=for-the-badge&logo=wazuh&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-65A637?&style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Tenable%20Nessus-00A4EF?&style=for-the-badge&logo=tenable&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
+
+### 🌐 Networking
+
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-pfSense-D35400?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-OpenVPN-EA7E20?&style=for-the-badge&logo=openvpn&logoColor=white" /> <img src="https://img.shields.io/badge/-TCP-0A66C2?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-UDP-2ECC71?&style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/-HTTP%2FHTTPS-2E7D32?&style=for-the-badge&logo=letsencrypt&logoColor=white" />
+
+### ☁️ Cloud
+<img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS%20IAM-DD344C?&style=for-the-badge&logo=amazoniam&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20VPC-8C4FFF?&style=for-the-badge&logo=amazonvpc&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?&style=for-the-badge&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20GuardDuty-8C4FFF?&style=for-the-badge&logo=amazonguardduty&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20CloudTrail-FF9900?&style=for-the-badge&logo=amazoncloudtrail&logoColor=white" />
+
+### 🖥️ Systems & Infrastructure
+
+<img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/-Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+
+### 💻 Programming
+
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+
+## Certifications
+
+<a href="https://www.credly.com/badges/cd0e2a40-d6a1-4b7b-8bd1-326c29e45956" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-E11C2A?&style=for-the-badge&logo=comptia&logoColor=white" />
+</a> <a href="https://www.credly.com/badges/8008e287-52be-41d5-a862-3c355080c4a6" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA%20Network%2B-E11C2A?&style=for-the-badge&logo=comptia&logoColor=white" />
+</a> <a href="https://www.credly.com/badges/8de1097b-3b2b-4d38-bb5e-ffe8ffba0d2b/linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA%20A%2B-EA0028?&style=for-the-badge&logo=comptia&logoColor=white" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
