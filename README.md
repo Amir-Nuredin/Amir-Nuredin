@@ -106,6 +106,8 @@ View Project → <a href="https://github.com/Amir-Nuredin/Active-Directory-Group
 
 - <a href="https://github.com/Amir-Nuredin/AWS-IAM-Security-Assessment-Identity-Governance-MFA-Enforcement-and-Least-Privilege-Analysis">AWS IAM Security Assessment: RBAC, MFA, Least Privilege, and Access Governance Review</a>
 -  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Monitoring-Investigation-Lab-CloudTrail-CloudWatch-">AWS Cloud Security Monitoring Investigation Lab (CloudTrail+CloudWatch).</a>
+-  <a href="https://github.com/Amir-Nuredin/Enterprise-Cloud-Threat-Detection-Security-Monitoring-with-AWS-GuardDuty">Enterprise Cloud Threat Detection Security Monitoring with AWS GuardDuty.</a>
+- <a href="https://github.com/Amir-Nuredin/Infrastructure-as-Code-with-Terraform-AWS-Infrastructure-Automation-Project">Infrastructure as Code with Terraform: AWS Infrastructure Automation Project.</a>
 - <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Infrastructure-Project-VPC-EC2-and-Security-Controls">AWS Cloud Infrastructure Project VPC EC2 and Security Controls.</a>
 -  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Lab-Secure-Account-Setup-IAM-MFA-and-Core-Services-Exploration">AWS Cloud Security Lab: Secure Account Setup, IAM MFA, and Core Services Exploration.</a>
 
@@ -135,6 +137,7 @@ View Project → <a href="https://github.com/Amir-Nuredin/Active-Directory-Group
 <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?&style=for-the-badge&logo=amazonec2&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20GuardDuty-8C4FFF?&style=for-the-badge&logo=amazonguardduty&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20CloudTrail-FF9900?&style=for-the-badge&logo=amazoncloudtrail&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform-844FBA?&style=for-the-badge&logo=Terraform&logoColor=white" />
 
 ### 🖥️ Systems & Infrastructure
 
