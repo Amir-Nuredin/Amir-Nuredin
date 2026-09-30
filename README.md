@@ -117,6 +117,10 @@ View Project → <a href="https://github.com/Amir-Nuredin/Active-Directory-Group
 - <a href="https://github.com/Amir-Nuredin/Active-Directory-Group-Policy-Secure-File-Sharing-Project">Active Directory Group Policy and Secure File Sharing Project.</a>
 - <a href="https://github.com/Amir-Nuredin/Endpoint-Monitoring-with-Sysmon">Endpoint Monitoring with Sysmon: Windows Event Log Analysis & Threat Detection</a>
 
+### ⚙️ Application Security
+
+- <a href="https://github.com/Amir-Nuredin/Enterprise-Web-Application-Security-Assessment-Using-OWASP-Juice-Shop-Burp-Suite">Enterprise Web Application Security Assessment Using OWASP Juice Shop Burp Suite.</a>
+
 ### 🐧 Linux Security
 
 - <a href="https://github.com/Amir-Nuredin/Ubuntu-Server-Security-Hardening-SSH-UFW-Firewall-and-Service-Reduction.">Ubuntu Server Security Hardening: SSH, UFW Firewall, and Service Reduction.</a>
