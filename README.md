@@ -63,7 +63,7 @@ View Project → <a href="https://github.com/Amir-Nuredin/Splunk-SIEM-Deployment
 
 Configured AWS security monitoring and analyzed CloudTrail and CloudWatch events to investigate cloud activity and strengthen visibility across AWS resources.
 
-View Project → 
+View Project →  <a href="https://github.com/Amir-Nuredin/AWS-Cloud-Security-Monitoring-Investigation-Lab-CloudTrail-CloudWatch-">AWS Cloud Security Monitoring Investigation Lab (CloudTrail+CloudWatch).</a>
 
 ---
 
